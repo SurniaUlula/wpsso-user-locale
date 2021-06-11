@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: WPSSO User Locale Selector 3.3.1\n"
+"Project-Id-Version: WPSSO User Locale Selector 3.3.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpsso-user-locale\n"
 "POT-Creation-Date: 2021-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-04-28 15:20-0700\n"
+"PO-Revision-Date: 2021-06-11 07:50-0700\n"
 "Last-Translator: JS Morisset <jsm@surniaulula.com>\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
@@ -64,20 +64,20 @@ msgctxt "metabox title"
 msgid "User Locale Settings"
 msgstr "Réglages langue utilisateur"
 
-#: lib/submenu/ul-general.php:72
+#: lib/submenu/ul-general.php:74
 msgctxt "option label"
 msgid "Toolbar Menu Icon"
 msgstr "Icône dans la barre d'outils"
 
-#: lib/submenu/ul-general.php:78
+#: lib/submenu/ul-general.php:80
 msgctxt "option label"
 msgid "Toolbar Menu Title"
 msgstr "Titre dans la barre d'outils"
 
-#: lib/submenu/ul-general.php:83
+#: lib/submenu/ul-general.php:85
 msgctxt "option label"
-msgid "Show User Locale on Front-End"
-msgstr "Afficher la langue utilisateur à l'avant"
+msgid "User Locale on Front-End"
+msgstr "Langue utilisateur à l'avant"
 
 #. Plugin Name of the plugin/theme
 msgid "WPSSO User Locale Selector"
