@@ -3,7 +3,7 @@
 <table>
 <tr><th align="right" valign="top" nowrap>Plugin Name</th><td>WPSSO User Locale Selector</td></tr>
 <tr><th align="right" valign="top" nowrap>Summary</th><td>Quick and easy locale / language / region selector for the WordPress admin toolbar.</td></tr>
-<tr><th align="right" valign="top" nowrap>Stable Version</th><td>3.3.1</td></tr>
+<tr><th align="right" valign="top" nowrap>Stable Version</th><td>3.3.2</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires PHP</th><td>7.0 or newer</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires WordPress</th><td>4.7 or newer</td></tr>
 <tr><th align="right" valign="top" nowrap>Tested Up To WordPress</th><td>5.7.2</td></tr>
