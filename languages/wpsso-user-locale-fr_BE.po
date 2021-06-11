@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WPSSO User Locale Selector 3.3.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpsso-user-locale\n"
 "POT-Creation-Date: 2021-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-06-11 07:50-0700\n"
+"PO-Revision-Date: 2021-06-11 11:49-0700\n"
 "Last-Translator: JS Morisset <jsm@surniaulula.com>\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: gettext/gettext-lib-abstracts-com.php:6 lib/abstracts/com/add-on.php:178
-msgid "The %1$s add-on requires the %2$s plugin &mdash; please activate the missing plugin."
-msgstr "L'ajout %1$s nécessite l'extension %2$s &mdash; veuillez activer l'extension manquante."
+msgid "The %1$s add-on requires the %2$s plugin - please activate the missing plugin."
+msgstr "L'ajout %1$s nécessite l'extension %2$s - veuillez activer l'extension manquante."
 
 #: gettext/gettext-lib-abstracts-com.php:7 lib/abstracts/com/add-on.php:196
 msgid "The %1$s add-on requires %2$s version %3$s or newer (version %4$s is currently installed)."
