@@ -20,7 +20,7 @@
 
 <p>Allows logged-in users to easily change their preferred locale / language / region setting right from the toolbar menu, instead of having to modify their user profile settings.</p>
 
-<p>The default behavior of WordPress is to apply the user locale preference only to the admin back-end &mdash; this plugin can optionally extend the locale preference to the front-end webpage as well.</p>
+<p>The default behavior of WordPress is to apply the user locale preference only to the admin back-end - this plugin can optionally extend the locale preference to the front-end webpage as well.</p>
 
 <h3>Do you use the Polylang plugin?</h3>
 
@@ -28,7 +28,7 @@
 
 <h3>Users Love the WPSSO UL Add-on</h3>
 
-<p>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; &mdash; "Practical and Fast - Works as advertised. Very easy to use." - <a href="https://wordpress.org/support/topic/practical-and-fast/">grouper</a></p>
+<p>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; - "Practical and Fast - Works as advertised. Very easy to use." - <a href="https://wordpress.org/support/topic/practical-and-fast/">grouper</a></p>
 
 <h3>WPSSO Core Plugin Required</h3>
 
