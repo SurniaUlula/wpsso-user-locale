@@ -30,9 +30,9 @@
 
 <p>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605; - "Practical and Fast - Works as advertised. Very easy to use." - <a href="https://wordpress.org/support/topic/practical-and-fast/">grouper</a></p>
 
-<h3>WPSSO Core Plugin Required</h3>
+<h3>WPSSO Core Required</h3>
 
-<p>WPSSO User Locale Selector (aka WPSSO UL) is an add-on for the <a href="https://wordpress.org/plugins/wpsso/">WPSSO Core plugin</a>. WPSSO Core and its add-ons make sure your content looks best on social sites and in search results, no matter how webpages are shared, re-shared, messaged, posted, embedded, or crawled.</p>
+<p>WPSSO User Locale Selector (WPSSO UL) is an add-on for the <a href="https://wordpress.org/plugins/wpsso/">WPSSO Core plugin</a>.</p>
 
 
 <h2>Installation</h2>
