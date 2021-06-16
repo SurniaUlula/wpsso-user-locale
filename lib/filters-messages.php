@@ -53,7 +53,7 @@ if ( ! class_exists( 'WpssoUlFiltersMessages' ) ) {
 
 				case 'tooltip-ul_front_end':	// User Locale on Front-End
 
-					$text = __( 'Show the user locale selector in the front-end top toolbar menu and set the user locale as the WordPress locale.', 'wpsso-user-locale' );
+					$text = __( 'Show the user locale selector in the front-end toolbar and set the user locale as the WordPress locale.', 'wpsso-user-locale' );
 
 					break;
 			}

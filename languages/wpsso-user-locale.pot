@@ -57,8 +57,8 @@ msgstr ""
 
 #: lib/filters-messages.php:56
 msgid ""
-"Show the user locale selector in the front-end top toolbar menu and set the "
-"user locale as the WordPress locale."
+"Show the user locale selector in the front-end toolbar and set the user "
+"locale as the WordPress locale."
 msgstr ""
 
 #: lib/locale.php:140
