@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WPSSO User Locale Selector 3.3.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpsso-user-locale\n"
 "POT-Creation-Date: 2021-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-06-11 11:49-0700\n"
+"PO-Revision-Date: 2021-06-17 09:36-0700\n"
 "Last-Translator: JS Morisset <jsm@surniaulula.com>\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -46,8 +46,8 @@ msgid "The title string used in the WordPress toolbar menu. The \"%s\" parameter
 msgstr "Le titre utilisé dans le menu de barre d'outils WordPress. Le paramètre \"%s\" est remplacé par la valeur actuel de la langue utilisateur (exemple: \"Langue utilisateur (%s)\")."
 
 #: lib/filters-messages.php:56
-msgid "Show the user locale selector in the front-end top toolbar menu and set the user locale as the WordPress locale."
-msgstr "Affichez le sélecteur de langue utilisateur dans le menu de la barre d'outils du haut d'avant et définir la langue utilisateur comme langue active WordPress."
+msgid "Show the user locale selector in the front-end toolbar and set the user locale as the WordPress locale."
+msgstr "Affichez le sélecteur de langue utilisateur dans la barre d'outils d'avant et définir la langue utilisateur comme langue WordPress."
 
 #: lib/locale.php:140
 msgctxt "toolbar menu title"
